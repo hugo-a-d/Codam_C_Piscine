@@ -1,0 +1,5 @@
+Credentials cache: API:92097
+        Principal: hd-arcy@CODAM.NL
+
+  Issued                Expires               Principal
+Jul 20 16:10:39 2021  Jul 27 16:10:35 2021  krbtgt/CODAM.NL@CODAM.NL
